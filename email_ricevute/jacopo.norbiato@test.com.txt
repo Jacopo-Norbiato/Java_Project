@@ -1,0 +1,2 @@
+Email{sender='mario.rossi@test.com'| receiver=[jacopo.norbiato@test.com]| ID=2| subject='Re: Saluta'| text='Ciao Jacopo. '| date=2024-02-01T10:17:37.892151500}
+Email{sender='gianni.verdi@test.com'| receiver=[jacopo.norbiato@test.com; mario.rossi@test.com]| ID=3| subject='Re: Saluta'| text='Ciao a voi, da Gianni.'| date=2024-02-01T10:20:25.596832500}

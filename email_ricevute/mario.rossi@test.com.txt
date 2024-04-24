@@ -1,0 +1,5 @@
+Email{sender='jacopo.norbiato@test.com'| receiver=[mario.rossi@test.com; gianni.verdi@test.com]| ID=1| subject='Saluta'| text='Ciao Mario e Gianni come state ? '| date=2024-02-01T10:16:15.164164100}
+Email{sender='gianni.verdi@test.com'| receiver=[jacopo.norbiato@test.com; mario.rossi@test.com]| ID=3| subject='Re: Saluta'| text='Ciao a voi, da Gianni.'| date=2024-02-01T10:20:25.596832500}
+Email{sender='gianni.verdi@test.com'| receiver=[mario.rossi@test.com; gianni.verdi@test.com]| ID=4| subject='Esercizio'| text='Esercizio esame'| date=2024-02-01T14:29:40.654557700}
+Email{sender='gianni.verdi@test.com'| receiver=[gianni.verdi@test.com; mario.rossi@test.com]| ID=5| subject='Re: Esercizio'| text='Ciao a voi'| date=2024-02-01T14:30:14.238410}
+Email{sender='Server@test.com'| receiver=[mario.rossi@test.com]| ID=6| subject='Delivery Status Notification (Failure)'| text='The selected email account (jacopo@gmail.com) does not exist.'| date=2024-02-01T14:31:49.971470}
