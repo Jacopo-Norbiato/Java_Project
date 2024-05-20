@@ -42,10 +42,4 @@ Comprensibile (trasparenza). In particolare, a fronte di errori, deve segnalare 
 Ragionevolmente efficiente per permettere all’utente di eseguire le operazioni con un numero minimo di click e di inserimenti di dati.
 Deve essere implementata utilizzando JavaFXML e, se necessario, Thread java. Non è richiesto, ma consigliato, l’uso di Java Beans, properties e binding di properties.
 
-
-Note: 
-- Si raccomanda di prestare molta attenzione alla progettazione dell’applicazione per facilitare il parallelismo nell’esecuzione delle istruzioni e la distribuzione su JVM diverse. 
-- Si ricorda che: - Il progetto SW può essere svolto in gruppo (max 3 persone) o individualmente. Se lo si svolge in gruppo la discussione deve essere fatta dall’intero gruppo in soluzione unica. 
-- La discussione potrà essere fatta nelle date di appello orale dell’insegnamento, che saranno distribuite su tutto l’Anno Accademico.
-- Si può discutere il progetto SW prima o dopo aver sostenuto la prova orale. - Come da regolamento d’esame il voto finale si ottiene come media del voto della prova orale e della discussione di laboratorio (i due voti hanno ugual peso nella media). 
-- Il voto finale deve essere registrato entro fine settembre 2022, data oltre la quale non è possibile mantenere i voti parziali. Leggere il regolamento d’esame sulla pagina web delll’insegnamento per ulteriori dettagli.
+Si raccomanda di prestare molta attenzione alla progettazione dell’applicazione per facilitare il parallelismo nell’esecuzione delle istruzioni e la distribuzione su JVM diverse. 
